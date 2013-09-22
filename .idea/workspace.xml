@@ -3,11 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="4b90ee4b-ac6e-4eb5-8700-577624dc4f41" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../robotlegs2-starling-viewmap/robotlegs2-starling-viewmap.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Starling-Framework/starling/bin/starling.swc" afterPath="$PROJECT_DIR$/../Starling-Framework/starling/bin/starling.swc" />
+      <change type="DELETED" beforePath="D:\Develop\git\Starling-Framework\starling\bin\starling.swc" afterPath="" />
     </list>
     <ignored path="Helicopter.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/fragment.js2" changelist="4b90ee4b-ac6e-4eb5-8700-577624dc4f41" time="1379856435772" ignored="false" />
+    <file path="/fragment.js2" changelist="4b90ee4b-ac6e-4eb5-8700-577624dc4f41" time="1379857112262" ignored="false" />
     <file path="/Helicopter.as" changelist="4b90ee4b-ac6e-4eb5-8700-577624dc4f41" time="1379848970914" ignored="false" />
     <file path="/Dummy.txt" changelist="4b90ee4b-ac6e-4eb5-8700-577624dc4f41" time="1379849159485" ignored="false" />
     <file path="/StarlingRoot.as" changelist="4b90ee4b-ac6e-4eb5-8700-577624dc4f41" time="1379851480436" ignored="false" />
@@ -163,7 +163,7 @@
       <file leaf-file-name="ShaderLinePhase.as" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/vos/ShaderLinePhase.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="5" selection-start="414" selection-end="414" vertical-scroll-proportion="0.19257222">
+            <state line="9" column="0" selection-start="417" selection-end="417" vertical-scroll-proportion="0.24759285">
               <folding />
             </state>
           </provider>
@@ -398,7 +398,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../robotlegs-framework/lib/Swiftsuspenders-v2.0.0rc3.swc!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -810,7 +810,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/vos/ShaderLinePhase.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="5" selection-start="414" selection-end="414" vertical-scroll-proportion="0.19257222">
+        <state line="9" column="0" selection-start="417" selection-end="417" vertical-scroll-proportion="0.24759285">
           <folding />
         </state>
       </provider>
@@ -855,7 +855,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Helicopter|Helicopter</last-edited>
+          <last-edited>Starling|starling</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

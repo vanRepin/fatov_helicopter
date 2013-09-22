@@ -11,9 +11,6 @@
             <entry module-name="feathers" build-configuration-name="feathers">
               <dependency linkage="Merged" />
             </entry>
-            <entry module-name="MinimalMobileTheme" build-configuration-name="MinimalMobileTheme">
-              <dependency linkage="Merged" />
-            </entry>
             <entry module-name="robotlegs-framework" build-configuration-name="robotlegs-framework">
               <dependency linkage="Merged" />
             </entry>
@@ -58,7 +55,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="starling" exported="" />
     <orderEntry type="module" module-name="feathers" exported="" />
-    <orderEntry type="module" module-name="MinimalMobileTheme" exported="" />
     <orderEntry type="module" module-name="robotlegs-framework" exported="" />
     <orderEntry type="module" module-name="robotlegs2-starling-viewmap" exported="" />
     <orderEntry type="module-library" exported="">

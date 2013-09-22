@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Helicopter.iml" filepath="$PROJECT_DIR$/Helicopter.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../feathers/themes/MinimalMobileTheme/MinimalMobileTheme.iml" filepath="$PROJECT_DIR$/../feathers/themes/MinimalMobileTheme/MinimalMobileTheme.iml" />
       <module fileurl="file://$PROJECT_DIR$/../feathers/feathers.iml" filepath="$PROJECT_DIR$/../feathers/feathers.iml" />
       <module fileurl="file://$PROJECT_DIR$/../robotlegs-framework/robotlegs-framework.iml" filepath="$PROJECT_DIR$/../robotlegs-framework/robotlegs-framework.iml" />
       <module fileurl="file://$PROJECT_DIR$/../robotlegs2-starling-viewmap/robotlegs2-starling-viewmap.iml" filepath="$PROJECT_DIR$/../robotlegs2-starling-viewmap/robotlegs2-starling-viewmap.iml" />
